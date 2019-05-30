@@ -23,6 +23,6 @@ function switchOnCharmFromTip (tip) {
   } else if {
     "Thank you."
   } else {
-
+    "Bye."
   }
 }
